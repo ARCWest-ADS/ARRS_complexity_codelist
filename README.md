@@ -1,2 +1,2 @@
-# ARRS_complexity_codelist
+# CPRD_AURUM_complexity_codelist
 Codelists for indicators of consultation complexity and minor conditions in primary care (CPRD Aurum)
